@@ -36,7 +36,4 @@ Modularização;
 Tratamento de Erros.
 
 Certificações:
-<<<<<<< HEAD
 
-=======
->>>>>>> c049f23b394ce79fd61c8549f40b9a92ec71f6ff
