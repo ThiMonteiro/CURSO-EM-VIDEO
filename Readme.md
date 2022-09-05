@@ -34,6 +34,9 @@ Dicionários;
 Funções;
 Modularização;
 Tratamento de Erros.
+<<<<<<< HEAD:Readme.md
 
 Certificações:
 
+=======
+>>>>>>> dcb31fe17ae087ffe229bae8aba9052ae470fcf7:Readme.me
